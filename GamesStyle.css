@@ -92,3 +92,13 @@ body {
     position: relative;
     z-index: 1;
 }
+
+.construction-banner {
+    margin-top: 2rem;
+    font-size: 2.5rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    color: #ff4d4d;
+    text-transform: uppercase;
+    text-shadow: 0 0 15px rgba(255, 77, 77, 0.7);
+}
